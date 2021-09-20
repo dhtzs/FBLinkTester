@@ -1,0 +1,5 @@
+github:
+  zip_url: https://github.com/dhtzs/FBLinkTester/releases/download/v1.0.0/FBLinkTester-1.0.0.zip
+  tar_url: https://github.com/dhtzs/FBLinkTester/releases/download/v1.0.0/FBLinkTester-1.0.0.tar.gz
+show_downloads: true
+theme: jekyll-theme-cayman
